@@ -1,5 +1,6 @@
 # my files
 .env
+.idea/
 
 # codecov.io
 coverage.xml
@@ -11,6 +12,7 @@ coverage.xml
 *.so
 
 # virtualenv
+venv/
 include/
 local/
 
@@ -45,3 +47,4 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
